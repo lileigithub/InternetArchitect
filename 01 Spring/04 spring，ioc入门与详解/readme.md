@@ -170,8 +170,6 @@ http://www.springframework.org/schema/mvc
 http://www.springframework.org/schema/mvc/spring-mvc.xsd
 http://www.springframework.org/schema/context
 http://www.springframework.org/schema/context/spring-context.xsd">
-        
-        "src/applicationContext.xml"
         <bean id="user" class="com.msb.User"></bean>
 </beans>
 
